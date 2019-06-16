@@ -18,7 +18,7 @@ bokeh - pip install bokeh or conda install bokeh
 
 Running the *get_data.py* file with get you the data for this project. 
 
-## Terminal comma 
+## Terminal command
 
 Run the following command in the terminal after cloning the gapminder_viz.py. Make sure in the same working directory. 
 
